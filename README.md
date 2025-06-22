@@ -4,7 +4,7 @@
 I used this script to install agent KESL. After that, you can install KESL using the administration console.  
 
 # Run
-bash install.sh  
+bash install_agent.sh  
 
 # FAQ  
 Q. How to check the connection to the server?  
