@@ -19,5 +19,5 @@ A. You should run this command:
 Q. How to change IP-address of KSC server?  
 A. You should run this command:  
 ```
-/opt/kaspersky/klnagent64/bin/klmover -address \<IP-address\>  
+/opt/kaspersky/klnagent64/bin/klmover -address <IP-address>  
 ```
